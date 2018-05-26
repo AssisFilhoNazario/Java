@@ -27,25 +27,52 @@
         <entry file="file://$PROJECT_DIR$/src/Basico/OperadoresComparacao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperadoresLogicos.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Basico/OperadoresLogicos.java">
+      <file leaf-file-name="SimplesCompostas.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CondicoesSimplesComposta/SimplesCompostas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+            <state relative-caret-position="119">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperadoresAtribuicao.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Basico/OperadoresAtribuicao.java">
+      <file leaf-file-name="OperadorTernario.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CondicoesSimplesComposta/OperadorTernario.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExercicioCondicoesSimplesComposta.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CondicoesSimplesComposta/ExercicioCondicoesSimplesComposta.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExemploSwitch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SwitchExercicios/ExemploSwitch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExercicioSwitch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SwitchExercicios/ExercicioSwitch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="27" selection-start-line="26" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -74,6 +101,14 @@
         <option value="$PROJECT_DIR$/src/Basico/OperadoresComparacao.java" />
         <option value="$PROJECT_DIR$/src/Basico/OperadoresLogicos.java" />
         <option value="$PROJECT_DIR$/src/Basico/OperadoresAtribuicao.java" />
+        <option value="$PROJECT_DIR$/src/ControleDeFluxo.java" />
+        <option value="$PROJECT_DIR$/src/ControleFluxo/CondicoesSimplesComposta.java" />
+        <option value="$PROJECT_DIR$/src/CondicoesSimplesComposta/Simples.java" />
+        <option value="$PROJECT_DIR$/src/CondicoesSimplesComposta/SimplesCompostas.java" />
+        <option value="$PROJECT_DIR$/src/CondicoesSimplesComposta/OperadorTernario.java" />
+        <option value="$PROJECT_DIR$/src/CondicoesSimplesComposta/ExercicioCondicoesSimplesComposta.java" />
+        <option value="$PROJECT_DIR$/src/SwitchExercicios/ExemploSwitch.java" />
+        <option value="$PROJECT_DIR$/src/SwitchExercicios/ExercicioSwitch.java" />
       </list>
     </option>
   </component>
@@ -103,12 +138,6 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaOnline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Basico" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -129,58 +158,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OperadoresAtribuicao">
-    <configuration name="DadosPessoais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basico.DadosPessoais" />
+  <component name="RunManager" selected="Application.ExercicioSwitch">
+    <configuration name="ExemploSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchExercicios.ExemploSwitch" />
       <module name="JavaOnline" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basico.*" />
+          <option name="PATTERN" value="SwitchExercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="OperadoresAritimeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basico.OperadoresAritimeticos" />
+    <configuration name="ExercicioCondicoesSimplesComposta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CondicoesSimplesComposta.ExercicioCondicoesSimplesComposta" />
       <module name="JavaOnline" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basico.*" />
+          <option name="PATTERN" value="CondicoesSimplesComposta.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="OperadoresAtribuicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basico.OperadoresAtribuicao" />
+    <configuration name="ExercicioSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchExercicios.ExercicioSwitch" />
       <module name="JavaOnline" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basico.*" />
+          <option name="PATTERN" value="SwitchExercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="OperadoresComparacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basico.OperadoresComparacao" />
+    <configuration name="OperadorTernario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CondicoesSimplesComposta.OperadorTernario" />
       <module name="JavaOnline" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basico.*" />
+          <option name="PATTERN" value="CondicoesSimplesComposta.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basico.OperadoresLogicos" />
+    <configuration name="SimplesCompostas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CondicoesSimplesComposta.SimplesCompostas" />
       <module name="JavaOnline" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basico.*" />
+          <option name="PATTERN" value="CondicoesSimplesComposta.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,19 +256,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.OperadoresAritimeticos" />
-      <item itemvalue="Application.DadosPessoais" />
-      <item itemvalue="Application.OperadoresComparacao" />
-      <item itemvalue="Application.OperadoresLogicos" />
-      <item itemvalue="Application.OperadoresAtribuicao" />
+      <item itemvalue="Application.SimplesCompostas" />
+      <item itemvalue="Application.OperadorTernario" />
+      <item itemvalue="Application.ExercicioCondicoesSimplesComposta" />
+      <item itemvalue="Application.ExemploSwitch" />
+      <item itemvalue="Application.ExercicioSwitch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OperadoresAtribuicao" />
-        <item itemvalue="Application.OperadoresLogicos" />
-        <item itemvalue="Application.OperadoresComparacao" />
-        <item itemvalue="Application.OperadoresAritimeticos" />
-        <item itemvalue="Application.DadosPessoais" />
+        <item itemvalue="Application.ExercicioSwitch" />
+        <item itemvalue="Application.ExemploSwitch" />
+        <item itemvalue="Application.ExercicioCondicoesSimplesComposta" />
+        <item itemvalue="Application.OperadorTernario" />
+        <item itemvalue="Application.SimplesCompostas" />
       </list>
     </recent_temporary>
   </component>
@@ -258,22 +287,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3290938" />
+      <window_info anchor="bottom" id="Messages" weight="0.32903227" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.50073206" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38799414" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -334,7 +362,7 @@
     <entry file="file://$PROJECT_DIR$/src/Basico/OperadoresComparacao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -345,10 +373,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ControleDeFluxo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ControleFluxo/CondicoesSimplesComposta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Basico/OperadoresAtribuicao.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CondicoesSimplesComposta/SimplesCompostas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CondicoesSimplesComposta/OperadorTernario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CondicoesSimplesComposta/ExercicioCondicoesSimplesComposta.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwitchExercicios/ExemploSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwitchExercicios/ExercicioSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="27" selection-start-line="26" selection-end-line="27" />
         </state>
       </provider>
     </entry>
